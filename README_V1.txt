@@ -1,9 +1,6 @@
 # Galgenmännchen Version 1.0
 
-Autor: Atrin Taghi Pour
-Klasse: 10A1
-GLN Aufgabe 2
-Datum: 27.06.2023
+
 Version: 1.0
 
 ## Beschreibung
@@ -24,9 +21,9 @@ Dieses Programm implementiert das Spiel "Galgenmännchen". Es wählt zufällig e
 1. Starten Sie das Programm.
 Sie können das Program auch durch dem Command ausführen:
 
-'''
+```
 python3 Galgenmaennchen_V1.py
-'''
+```
 
 2. Befolgen Sie die auf dem Bildschirm angezeigten Anweisungen, um das Spiel zu spielen.
 
