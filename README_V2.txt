@@ -1,9 +1,6 @@
 # Galgenmännchen Version 2.0 (GUI)
 
-Autor: Atrin Taghi Pour
-Klasse: 10A1
-GLN Aufgabe 2
-Datum: 27.06.2023
+
 Version 2.0 (GUI)
 
 ## Beschreibung
@@ -23,9 +20,9 @@ Verwendung:
 1. Starten Sie das Spiel, indem Sie den Code ausführen.
 Sie können das Program auch durch dem Command ausführen:
 
-'''
+```
 python3 Galgenmaennchen_V2.py
-'''
+```
 
 2. Ein Fenster mit dem Titel "Galgenmännchen Spiel" wird geöffnet.
 
