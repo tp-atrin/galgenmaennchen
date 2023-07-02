@@ -1,8 +1,6 @@
 """
 Atrin Taghi Pour
-Klasse 10A1
-Aufgabe 2 des GLNs
-27.06.2023
+
 "Galgenmännchen" Version 1.0
 Test code
 """
